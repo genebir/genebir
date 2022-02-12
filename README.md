@@ -1,5 +1,5 @@
 ### Hi there 👋
-야매 1
+야매 1 스택
 
 <!--
 **genebir/genebir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
