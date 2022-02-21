@@ -1,6 +1,6 @@
 ### Hi there 👋
 1
-
+[![genebir's GitHub stats](https://github-readme-stats.vercel.app/api?username=genebir)](https://github.com/genebir/github-readme-stats)
 <!--
 **genebir/genebir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
