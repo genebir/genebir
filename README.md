@@ -20,15 +20,17 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8&cache_seconds=1800">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&card_width=800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8&cache_seconds=1800&card_width=800">
+    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&card_width=800" />
   </picture>
+</p>
 
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight&cache_seconds=1800">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&border_color=e1e4e8&cache_seconds=1800">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight&cache_seconds=1800&card_width=800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&border_color=e1e4e8&cache_seconds=1800&card_width=800">
+    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&card_width=800" />
   </picture>
 </p>
 
@@ -37,7 +39,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=false">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github" />
   </picture>
 </p>
 
@@ -48,7 +50,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=tokyonight">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default&border_color=e1e4e8&background=ffffff">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default" />
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default" />
   </picture>
 </p>
 
