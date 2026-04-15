@@ -18,10 +18,9 @@
 
 ## 📊 Engineering Metrics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight" />
-</p>
+[![genebir's GitHub stats](https://github-readme-stats.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📈 Contribution Heatmap
 ![genebir's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true)
