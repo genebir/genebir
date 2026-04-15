@@ -18,14 +18,28 @@
 
 ## 📊 Engineering Metrics
 
+## 📊 Engineering Metrics
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default" />
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&border_color=e1e4e8">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default" />
+  </picture>
 </p>
 
 ### 📈 Contribution Heatmap
-![genebir's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github" />
+</picture>
 ---
 
 ## ⚡ Recent Production Activity
