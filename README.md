@@ -18,35 +18,44 @@
 
 ## 📊 Engineering Metrics
 
-## 📊 Engineering Metrics
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8&cache_seconds=1800">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default" />
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&border_color=e1e4e8">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&border_color=e1e4e8&cache_seconds=1800">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default" />
   </picture>
 </p>
 
 ### 📈 Contribution Heatmap
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github&area=true">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github" />
+  </picture>
+</p>
+
 ---
 
 ## ⚡ Recent Production Activity
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default&border_color=e1e4e8">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default" />
+  </picture>
+</p>
 
 ---
 
 ## 📫 Contact me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/기승-염-8b0b09296)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duarltmd@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
