@@ -19,8 +19,7 @@
 ## 📊 Engineering Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img width="600" src="https://metrics.lecoq.io/genebir?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Asia%2FSeoul">
 </p>
 
 ### 📈 Contribution Heatmap
