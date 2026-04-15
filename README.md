@@ -20,17 +20,15 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&card_width=800">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8&cache_seconds=1800&card_width=800">
-    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&card_width=800" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_color=e1e4e8&cache_seconds=1800">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=genebir&show_icons=true&theme=default" />
   </picture>
-</p>
-
-<p align="center">
+  &nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight&cache_seconds=1800&card_width=800">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&border_color=e1e4e8&cache_seconds=1800&card_width=800">
-    <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&card_width=800" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=tokyonight&cache_seconds=1800">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default&border_color=e1e4e8&cache_seconds=1800">
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=genebir&layout=compact&theme=default" />
   </picture>
 </p>
 
