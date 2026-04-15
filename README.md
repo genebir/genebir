@@ -29,4 +29,4 @@
 ---
 
 ## 🐥 Contribution Graph
-![[자신의ID]'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=[자신의ID]&theme=react-dark)
+![genebir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=react-dark)
