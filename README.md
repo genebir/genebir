@@ -1,4 +1,4 @@
-# ⚡ Hello, I'm [당신의 이름/닉네임]!
+# ⚡ Hello, I'm Genebir!
 
 ### 🐱 "Code like a beast, think like a philosopher."
 
