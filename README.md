@@ -36,7 +36,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=tokyonight&bg_color=1a1b27&color=70a5fd&line=5bcdec&point=ffffff&area=true&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github&area=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github&bg_color=ffffff&color=0366d6&line=0366d6&point=24292e&area=true&hide_border=false">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=genebir&theme=github" />
   </picture>
 </p>
@@ -47,7 +47,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default&border_color=e1e4e8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default&border_color=e1e4e8&background=ffffff">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default" />
   </picture>
 </p>
