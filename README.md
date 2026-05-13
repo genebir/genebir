@@ -45,17 +45,6 @@
 
 ---
 
-## ⚡ Recent Production Activity
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=tokyonight">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default&border_color=e1e4e8&background=ffffff">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=genebir&theme=default" />
-  </picture>
-</p>
-
----
-
 ## 📫 Contact me
 <p align="left">
   <a href="https://www.linkedin.com/in/%EA%B8%B0%EC%8A%B9-%EC%97%BC-8b0b09296?trk=contact-info"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
